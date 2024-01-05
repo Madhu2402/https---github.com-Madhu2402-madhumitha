@@ -43,6 +43,7 @@ input {
 
 .inside {
   background-color: lightgreen;
+  background-position: 100px;
 }
 
 button {
