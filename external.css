@@ -2,13 +2,27 @@ body {
   font-family: Arial, sans-serif;
   margin: auto;
   padding: 0;
-  background-color: #b2f2fd;
+  background-color: lightblue;
   max-width: 400px;
   margin: auto;
-  padding: 20px;
+  padding: 30px;
   margin-top: 50px;
   border-radius: 8px;
   font-style: oblique;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 4px;
+  height: 100vh;
+  width: 85vw;
+
+}
+
+
+img{
+  height: 200px;
+  padding-left: 100px;
 }
 
 h1 {

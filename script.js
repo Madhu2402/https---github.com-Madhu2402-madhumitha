@@ -1,7 +1,4 @@
-function toggleCard() {
-    var card = document.querySelector('.card');
-    card.classList.toggle('clicked');
-}
+
 
 function login() {
     //var username = document.getElementById('username').value;
